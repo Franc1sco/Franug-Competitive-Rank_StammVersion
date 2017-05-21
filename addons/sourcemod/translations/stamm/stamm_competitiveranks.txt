@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"GetRanks"
+	{
+		"en"        "Competitive Ranks"
+	}
+
+}
