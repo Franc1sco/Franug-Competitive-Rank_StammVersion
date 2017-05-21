@@ -1,0 +1,93 @@
+"StammLevels"
+{
+	"Silver I"
+	{
+		"name"              "Silver I"
+		"points"            "400"
+	}
+	"Silver II"
+	{
+		"name"              "Silver II"
+		"points"            "500"
+	}
+	"Silver III"
+	{
+		"name"              "Silver III"
+		"points"            "600"
+	}
+	"Silver IV"
+	{
+		"name"              "Silver IV"
+		"points"            "700"
+	}
+	"Silver Elite"
+	{
+		"name"              "Silver Elite"
+		"points"            "800"
+	}
+	"Silver Elite Master"
+	{
+		"name"              "Silver Elite Master"
+		"points"            "900"
+	}
+	"Gold Nova I"
+	{
+		"name"              "Gold Nova I"
+		"points"            "1000"
+	}
+	"Gold Nova II"
+	{
+		"name"              "Gold Nova II"
+		"points"            "1100"
+	}
+	"Gold Nova III"
+	{
+		"name"              "Gold Nova III"
+		"points"            "1200"
+	}
+	"Gold Nova Master"
+	{
+		"name"              "Gold Nova Master"
+		"points"            "1300"
+	}
+	"Master Guardian I"
+	{
+		"name"              "Master Guardian I"
+		"points"            "1500"
+	}
+	"Master Guardian II"
+	{
+		"name"              "Master Guardian II"
+		"points"            "1650"
+	}
+	"Master Guardian Elite"
+	{
+		"name"              "Master Guardian Elite"
+		"points"            "1750"
+	}
+	"Distinguished Master Guardian"
+	{
+		"name"              "Distinguished Master Guardian"
+		"points"            "1900"
+	}
+	"Legendary Eagle"
+	{
+		"name"              "Legendary Eagle"
+		"points"            "2000"
+	}
+	"Legendary Eagle Master"
+	{
+		"name"              "Legendary Eagle Master"
+		"points"            "2250"
+	}
+	"Supreme Master First Class"
+	{
+		"name"              "Supreme Master First Class"
+		"points"            "2500"
+	}
+	"The Global Elite"
+	{
+		"name"              "The Global Elite"
+		"points"            "3000"
+	}
+}

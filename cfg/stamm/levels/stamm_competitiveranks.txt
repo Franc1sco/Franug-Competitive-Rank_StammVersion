@@ -1,7 +1,5 @@
 "LevelSettings"
 {
-	"0"		"No Rank"
-
 	"1"		"Silver I"
 
 	"2"		"Silver II"
@@ -30,9 +28,9 @@
 
 	"14"	"Distinguished Master Guardian"
 
-	"15"	"Legendary Eaagle"
+	"15"	"Legendary Eagle"
 
-	"16"	"Legendary Eaagle Master"
+	"16"	"Legendary Eagle Master"
 
 	"17"	"Supreme Master First Class"
 
