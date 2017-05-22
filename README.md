@@ -1,0 +1,1 @@
+Required: https://forums.alliedmods.net/showthread.php?p=1338942
